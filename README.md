@@ -11,7 +11,7 @@
   <img src ="https://img.shields.io/badge/-instagram-%23000000?style=flat&logo=Instagram" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 </a>
   
-<a href = "" >
+<a href = "https://velog.io/@hyeongjoon" >
   <img src ="https://img.shields.io/badge/-velog-%23000000?style=flat&logo=Vector Logo Zone" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 </a>
   
